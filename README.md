@@ -1,2 +1,2 @@
-# python-scripts-for-SU2
-python script for addint options in config SU2 file for adjoint design optimization
+# python scripts for multitasks
+python scripts used for adding options in config files, move simultaneous files from one directory to a new directory, and for plotting dynamics and multiple plots simultaneously.
